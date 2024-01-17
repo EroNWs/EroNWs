@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **merengrmz@gmail.com**
 
+- 📝 I regularly write articles on [https://medium.com/@merengrmz](https://medium.com/@merengrmz)
+
 - 📄 Know about my experiences [www.linkedin.com/in/meren888](www.linkedin.com/in/meren888)
 
 - ⚡ Fun fact **Despite my deep dive into the complex world of .NET development, Angular, and React, I still find time to experiment with new programming languages and frameworks, always seeking to blend the art of coding with the latest tech trends!**
