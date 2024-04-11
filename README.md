@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **BEEMA project**
 
-- 💬 Ask me about **Angular, .Net Core, React, RabbitMq, ElastichSearch, Redis, Microservice, Microservice Architecture etc...**
+- 💬 Ask me about **Angular, .Net Core, React, RabbitMq, ElasticSearch, Redis, Microservice, Microservice Architecture etc...**
 
 - 📫 How to reach me **merengrmz@gmail.com**
 
